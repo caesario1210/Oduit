@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.oduit.app-mergeDebugResources-59:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\RIO\\PORTOFOLIO\\Oduit\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "8,2,5,3,10,11,7,9,6,12,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "350,55,203,100,464,509,301,410,251,557,144",
+                        "endColumns": "59,44,47,43,44,47,48,53,49,43,58",
+                        "endOffsets": "405,95,246,139,504,552,345,459,296,596,198"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,160,208,252,297,345,394,448,498,542",
+                        "endColumns": "59,44,47,43,44,47,48,53,49,43,58",
+                        "endOffsets": "110,155,203,247,292,340,389,443,493,537,596"
+                    }
+                }
+            ]
+        }
+    ]
+}

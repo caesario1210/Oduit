@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="expense_red">#F44336</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="oduit_logo_blue">#1D74B8</color>
+    <color name="oduit_primary">#009688</color>
+    <color name="oduit_primary_container">#B2DFDB</color>
+    <color name="oduit_primary_dark">#00796B</color>
+    <color name="oduit_secondary">#7C4DFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_transaction">Tambah Transaksi</string>
+    <string name="app_name">O\'Duit</string>
+    <string name="budget_title">Budget</string>
+    <string name="home_title">Beranda</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="report_title">Laporan</string>
+    <string name="saldo_total">Saldo Total</string>
+    <string name="savings_title">Tabungan</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="transaction_title">Transaksi</string>
+    <style name="Theme.Oduit" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

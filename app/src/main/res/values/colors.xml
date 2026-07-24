@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oduit_primary">#009688</color>
+    <color name="oduit_primary_dark">#00796B</color>
+    <color name="oduit_primary_container">#B2DFDB</color>
+    <color name="oduit_secondary">#7C4DFF</color>
+    <color name="oduit_logo_blue">#1D74B8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+</resources>

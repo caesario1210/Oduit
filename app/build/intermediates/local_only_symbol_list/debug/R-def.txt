@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color expense_red
+color income_green
+color oduit_logo_blue
+color oduit_primary
+color oduit_primary_container
+color oduit_primary_dark
+color oduit_secondary
+color white
+drawable ic_oduit_logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_transaction
+string app_name
+string budget_title
+string home_title
+string pemasukan
+string pengeluaran
+string report_title
+string saldo_total
+string savings_title
+string see_all
+string transaction_title
+style Theme.Oduit

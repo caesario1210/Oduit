@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O\'Duit</string>
+    <string name="home_title">Beranda</string>
+    <string name="transaction_title">Transaksi</string>
+    <string name="budget_title">Budget</string>
+    <string name="savings_title">Tabungan</string>
+    <string name="report_title">Laporan</string>
+    <string name="add_transaction">Tambah Transaksi</string>
+    <string name="saldo_total">Saldo Total</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="see_all">Lihat Semua</string>
+</resources>

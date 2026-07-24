@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="app_name">O\'Duit</string>
+    <string name="budget_title">Budget</string>
+    <string name="home_title">Home</string>
+    <string name="pemasukan">Income</string>
+    <string name="pengeluaran">Expense</string>
+    <string name="report_title">Reports</string>
+    <string name="saldo_total">Total Balance</string>
+    <string name="savings_title">Savings</string>
+    <string name="see_all">See All</string>
+    <string name="transaction_title">Transactions</string>
+</resources>
